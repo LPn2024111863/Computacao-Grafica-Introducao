@@ -1,4 +1,3 @@
 # Computacao-Grafica-Introducao
-Exercício 3 da ficha de Introdução Tkinter
-Para este exercício fiz uma calculadora básica com as operações de somar, subtrair, multiplicar e dividir, além das funções de ENTER e CLEAR
-Para isto usei um Label como ecrã e frames com botões inseridos nestes para fazer o teclado da calculadora
+# Exercício C1 da semana 3
+A resolução a este exercício encontra-se na pasta: [**Semana 3 - C1**](https://github.com/LPn2024111863/Computacao-Grafica-Introducao/tree/main/Semana%203%20-%20C1)
